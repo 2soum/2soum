@@ -1,4 +1,3 @@
-<img src="./assets/banner.jpg" alt="A glass brain dissolving into a constellation of linked, glowing nodes" width="100%">
 
 ### I build agents that remember.
 
